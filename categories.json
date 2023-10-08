@@ -1,0 +1,5 @@
+[
+    {"cid": "c1", "cname": "Category 1", "pids": ["p1", "p2"]},
+    {"cid": "c2", "cname": "Category 2", "pids": ["p2", "p3"]}
+  ]
+  
